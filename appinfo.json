@@ -1,0 +1,25 @@
+{
+  "uuid": "32c96244-caa3-4cb8-90cb-0613bf56d8f7",
+  "shortName": "palette_leak_test",
+  "longName": "palette_leak_test",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+      "media": [
+          {
+              "name": "BM16",
+              "file": "bm16.png",
+              "type": "png"
+          }
+      ]
+  }
+}
